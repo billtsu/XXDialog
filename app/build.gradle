@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.china.app"
-        minSdkVersion 11
-        targetSdkVersion 24
+        minSdkVersion 25
+        targetSdkVersion 25
         versionCode 1
         versionName "1.0"
 
